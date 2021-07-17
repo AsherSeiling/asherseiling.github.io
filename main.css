@@ -1,29 +1,26 @@
 *{
-  margin: 0;
+	margin: 0;
 }
 .headertitle{
-  background-color: black;
-  color: white;
-  font-family: arial;
-  padding: 5pt;
-  margin-bottom: 20pt;
-}
-.linksArea{
-
+	background-color: black;
+	color: white;
+	font-family: arial;
+	padding: 5pt;
+	margin-bottom: 20pt;
 }
 .linkarea{
-  border: 2px solid rgb(150, 150, 150);
-  border-radius: 5pt;
-  margin-left: 40%;
-  margin-right: 40%;
-  padding: 5pt;
-  font-family: arial;
-  margin-bottom: 10pt;
+	border: 2px solid rgb(150, 150, 150);
+	border-radius: 5pt;
+	margin-left: 40%;
+	margin-right: 40%;
+	padding: 5pt;
+	font-family: arial;
+	margin-bottom: 10pt;
 }
 .linkarea:hover{
-  background-color: rgb(150, 150, 150);
+	background-color: rgb(150, 150, 150);
 }
 a{
-  text-decoration: none;
-  color: rgb(0, 0, 50);
+	text-decoration: none;
+	color: rgb(0, 0, 50);
 }
